@@ -1,0 +1,19 @@
+{
+  "name": "husky-sample",
+  "version": "1.0.0",
+  "description": "husky sample project for posting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dilrong/husky-sample.git"
+  },
+  "author": "dilrong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dilrong/husky-sample/issues"
+  },
+  "homepage": "https://github.com/Dilrong/husky-sample#readme"
+}
